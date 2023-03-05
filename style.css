@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-weight: 400;
+  font-family: "Anton", sans-serif;
+}
+.first-screen {
+  background-image: url(bg.jpg);
+  height: 100vh;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.container {
+  margin: 0 216px;
+}
+.header {
+  padding-top: 57px;
+}
+.header-line {
+  display: flex;
+  justify-content: space-between;
+}
+.header-left {
+  display: flex;
+  align-items: center;
+}
+.header-logo {
+  margin-right: 70px;
+}
+.nav {
+  display: flex;
+}
+.nav-item {
+  margin-right: 40px;
+  color: white;
+  font-size: 14px;
+}
+.phone {
+  color: white;
+  font-size: 17px;
+}
+.offer {
+  margin-top: 216px;
+}
+.offer-item {
+  color: white;
+}
+.offer-text {
+  font-size: 30px;
+  letter-spacing: 2px;
+}
+.offer-text2 {
+  display: block;
+  font-size: 100px;
+}
+.btn {
+  padding-top: 39px;
+}
+.button {
+  color: #ffffff;
+  text-decoration: none;
+  border: 1px solid white;
+  padding: 18px 23px;
+  letter-spacing: 2px;
+}
+.about {
+  padding-top: 113px;
+}
+.about-title {
+  font-size: 50px;
+}
+.about-text {
+}
+.about1 {
+  font-size: 25px;
+}
+.about2 {
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  margin-top: 19px;
+  font-size: 16px;
+  line-height: 26px;
+  text-align: justify;
+}
+.about-items {
+  margin-top: 58px;
+  display: flex;
+  align-items: start;
+  justify-content: space-between;
+}
+.images {
+  padding-top: 67px;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+.footer {
+  padding-top: 114px;
+  padding-bottom: 80px;
+  font-family: "Open Sans", sans-serif;
+  font-weight: 400;
+  margin-top: 14px;
+}
